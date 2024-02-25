@@ -23,7 +23,7 @@ namespace Factorial
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("INVALID ENTRY!");
+                    Console.WriteLine("INVALID ENTRY, TRY AGAIN!");
                 }
             } while (error == true);
 
