@@ -1,0 +1,15 @@
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\bin\Debug\net6.0\Factorial.exe
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\bin\Debug\net6.0\Factorial.deps.json
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\bin\Debug\net6.0\Factorial.dll
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\bin\Debug\net6.0\Factorial.pdb
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\Factorial.dll
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\Factorial.pdb
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+D:\Documents\aaMJ\CC-DAALGO22\Factorial\obj\Debug\net6.0\ref\Factorial.dll
